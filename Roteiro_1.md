@@ -2,9 +2,12 @@ Parte 01: Seguidor de tensão
  
 LM324:
 
-[![Roteiros buffer](https://github.com/LFRB-IFSC/Roteiros/blob/master/media/buffer.324.png)]
+![Roteiros buffer](https://github.com/LFRB-IFSC/Roteiros/blob/master/media/buffer.324.png)
 
-TL 082
+![Roteiros buffer](https://github.com/LFRB-IFSC/Roteiros/blob/master/media/buffer.op.324.png)
+
+TL 082:
+
 
  
  
