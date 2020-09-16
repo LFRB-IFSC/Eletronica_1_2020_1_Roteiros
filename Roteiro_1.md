@@ -15,10 +15,8 @@ TL 082:
 ![Roteiros buffer](https://github.com/LFRB-IFSC/Roteiros/blob/master/media/buffer.graf.tl.png)
  
 Comparando valores:
-Modelo	Vin	Vout
-LMX24	1	1,0026
-TL082	1	0,99998
-Ideal	1	1
+
+![Roteiros buffer](https://github.com/LFRB-IFSC/Roteiros/blob/master/media/buffer.tabela.JPG)
 
 Nos dois modelos pode-se observar uma boa precisão nos resultados, no entanto o LM324 teve uma tensão adicional de 0,0026 e o TL082 teve uma redução na tensão esperada de 0,00002. Os modelos foram projetados para se aproximarem de componentes reais, por isso possuem não idealidades tais como resistências indesejadas, que podem justificar os valores finais obtidos.
 
